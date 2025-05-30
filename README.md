@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="gojo - san 😼.jpeg"  />
+<img align="left" height="600" src="gojo - san 😼.jpeg"  />
 
 ###
 
@@ -10,7 +10,15 @@
 
 ###
 
-<p align="center">🎓 Estudante de Eng. Comp. na UFGD</p>
+<p align="center">Sou um estudante de Engenharia da Computação na UFGD, movido por uma curiosidade intensa e uma sede insaciável por conhecimento. Aprendo rápido, gosto de refletir profundamente sobre o que estudo e busco entender o porquê das coisas, não apenas o "como".
+
+Comecei a programar por volta de 2020, quando me imaginei criando jogos — desde então, a programação se tornou parte da minha vida. Não tenho uma linguagem favorita, mas me identifico bastante com os “filhos do C++”: Python, Java e C#. Acredito que cada linguagem tem seu papel e importância.
+
+Na universidade, tive contato com várias áreas da computação, e apesar de hoje me aprofundar mais no back-end, sou apaixonado por praticamente tudo que envolve código. Meu TCC, inclusive, reflete isso: estou desenvolvendo um projeto que une visão computacional e machine learning para resolver problemas reais de forma prática e inteligente.
+
+Fora da tecnologia, gosto de explorar música — não só ouvir, mas analisar sua construção e harmonia, especialmente no rock. Também me divirto com cubo mágico e reservo um tempo do dia para estudos diversos.
+
+Meu objetivo é me tornar um desenvolvedor excepcional, com domínio técnico e olhar crítico para o mundo.</p>
 
 ###
 
@@ -58,8 +66,8 @@
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=DevolperGdSL&locale=pt-br&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevolperGdSL&theme=black-ice&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 ###
@@ -73,7 +81,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="┊▬ 𝘑𝘜𝘑𝘜𝘛𝘚𝘜 𝘒𝘈𝘐𝘚𝘌𝘕 ▬ ❜┊.jpeg"  />
+  <img src="┊▬ 𝘑𝘜𝘑𝘜𝘛𝘚𝘜 𝘒𝘈𝘐𝘚𝘌𝘕 ▬ ❜┊.jpeg" style="width: 100%; height: auto;" alt="Jujutsu Kaisen" />
 </div>
 
 ###
