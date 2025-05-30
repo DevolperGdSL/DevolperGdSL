@@ -8,11 +8,15 @@
 
 ## 🚀 Tecnologias que uso
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <kbd>Python</kbd>
+  <kbd>Java</kbd>
+  <kbd>PostgreSQL</kbd>
+  <kbd>C</kbd>
+  <kbd>C++</kbd>
+  <kbd>JavaFX</kbd>
+  <kbd>PyQt5</kbd>
+</p>
 
 ---
 
