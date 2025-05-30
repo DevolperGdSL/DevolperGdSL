@@ -9,7 +9,6 @@
 ## 🚀 Tecnologias que uso
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,11 +25,5 @@
 
 ## 🧪 Brincando com widgets
 
-<!-- Linguagens por tamanho -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevolperGdSL&langs_count=10&layout=compact&theme=dark" />
-
 <!-- Troféus -->
 <img src="https://github-profile-trophy.vercel.app/?username=DevolperGdSL&theme=gruvbox" />
-
-<!-- Snake game -->
-<img src="https://github.com/DevolperGdSL/DevolperGdSL/blob/output/github-contribution-grid-snake.svg" />
