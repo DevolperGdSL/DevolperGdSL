@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou o Gabriel</h1>
 
-<!--
-**DevolperGdSL/DevolperGdSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Eng. Comp. na <strong>UFGD</strong>  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=DevolperGdSL&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevolperGdSL&layout=compact&theme=radical)
+
+---
+
+## 🧪 Brincando com widgets
+
+<!-- Linguagens por tamanho -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevolperGdSL&langs_count=10&layout=compact&theme=dark" />
+
+<!-- Troféus -->
+<img src="https://github-profile-trophy.vercel.app/?username=DevolperGdSL&theme=gruvbox" />
+
+<!-- Snake game -->
+<img src="https://github.com/DevolperGdSL/DevolperGdSL/blob/output/github-contribution-grid-snake.svg" />
