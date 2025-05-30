@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Gabriel</h1>
+<h1 align="center">Olá! Eu sou o Gabriel 👋</h1>
 
 <p align="center">
 🎓 Estudante de Eng. Comp. na <strong>UFGD</strong>  
@@ -22,8 +22,6 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevolperGdSL&layout=compact&theme=radical)
 
 ---
-
-## 🧪 Brincando com widgets
 
 <!-- Troféus -->
 <img src="https://github-profile-trophy.vercel.app/?username=DevolperGdSL&theme=gruvbox" />
