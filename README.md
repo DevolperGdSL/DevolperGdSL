@@ -67,7 +67,7 @@ Meu objetivo é me tornar um desenvolvedor excepcional, com domínio técnico e 
 <br clear="both">
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevolperGdSL&theme=black-ice&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevolperGdSL&exclude_days=Sun%2CSat&theme=black-ice&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 ###
